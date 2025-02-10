@@ -3,8 +3,8 @@
 # 기여한 사람
 | <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/PSYUN"><img src="https://avatars.githubusercontent.com/u/133249953?v=4" width="90" height="90"></a> | <a href="https://github.com/HeoJamong"><img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="90" height="90"></a> | <a href="https://github.com/prodksdb"><img src="https://avatars.githubusercontent.com/u/150729023?v=4" width="90" height="90"></a> | <a href="https://github.com/SeoHyunHo99"><img src="https://avatars.githubusercontent.com/u/43312841?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- | ----- |
-| [오인성 (대장)](https://github.com/ois0886) | [박상윤](https://github.com/ois0886) | [허지명](https://github.com/HeoJamong) | [안유진](https://github.com/ois0886) | [서현호](https://github.com/ois0886) |
+| [오인성 (대장)](https://github.com/ois0886) | [박상윤](https://github.com/PSYUN) | [허지명](https://github.com/HeoJamong) | [안유진](https://github.com/prodksdb) | [서현호](https://github.com/SeoHyunHo99) |
 
 | <a href="https://github.com/ootr47"><img src="https://avatars.githubusercontent.com/u/83055885?v=4" width="90" height="90"></a> | <a href="https://github.com/zziwonCHOI"><img src="https://avatars.githubusercontent.com/u/128473259?v=4" width="90" height="90"></a> | <a href="https://github.com/2-jjong"><img src="https://avatars.githubusercontent.com/u/127838675?v=4" width="90" height="90"></a> | <a href="https://github.com/cheonjiyun"><img src="https://avatars.githubusercontent.com/u/70828192?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- |
-| [박승준](https://github.com/ois0886) | [최지원](https://github.com/zziwonCHOI) | [이종현](https://github.com/HeoJamong) | [천지윤](https://github.com/cheonjiyun) |
+| [박승준](https://github.com/ootr47) | [최지원](https://github.com/zziwonCHOI) | [이종현](https://github.com/2-jjong) | [천지윤](https://github.com/cheonjiyun) |
